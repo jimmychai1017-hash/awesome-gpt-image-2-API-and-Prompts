@@ -1,0 +1,5 @@
+# Vendored third-party skills are kept byte-for-byte as upstream ships them
+# (see .claude/VENDORED.md), so whitespace checks do not apply to them.
+.claude/skills/impeccable/** -whitespace
+.claude/skills/ui-ux-pro-max/** -whitespace
+.claude/agents/impeccable-*.md -whitespace
